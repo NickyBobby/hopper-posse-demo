@@ -4,8 +4,8 @@ class Server
     "Hello World!"
   end
 
-  def not_cool
-    "Galvanize!"
+  def cool_things
+    "Turing!"
   end
 
 end
