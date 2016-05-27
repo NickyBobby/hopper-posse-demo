@@ -9,6 +9,7 @@ class ServerTest < Minitest::Test
     assert_equal "Hello World!", server.hello
   end
 
+
   def test_it_knows_what_is_cool
     server = Server.new
     assert_equal "Turing!", server.cool_things
